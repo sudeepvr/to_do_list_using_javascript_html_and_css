@@ -1,0 +1,3 @@
+Download all the files and create a folder with name 'images', and move all the provided images into the folder.
+Run HTML file in a browser.
+that's it.....
